@@ -21,6 +21,7 @@ We envision a future where every food product can be traced from farm to table w
 ## Future Scope
 
 ### Short-term Enhancements (3-6 months)
+
 - **Supply Chain Integration**: Add distributor and retailer tracking capabilities
 - **IoT Sensor Integration**: Connect with temperature, humidity, and quality sensors
 - **Mobile Application**: Develop consumer-facing mobile app for QR code scanning
@@ -70,3 +71,12 @@ We envision a future where every food product can be traced from farm to table w
 2. Register products using the `register-product` function
 3. Verify certifications using the `verify-certification` function
 4. Query product information using read-only functions
+
+
+
+
+
+<img width="1920" height="1080" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/397ba611-1041-4153-9d8e-708749773fd4" />
+
+
+
