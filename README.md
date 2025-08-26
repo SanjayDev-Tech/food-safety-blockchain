@@ -50,19 +50,7 @@ clarinet test
 clarinet integrate
 ```
 
-### Project Structure
-```
-food-safety-blockchain/
-├── contracts/
-│   └── FoodSafetyVerification.clar    # Main smart contract
-├── tests/
-│   └── FoodSafetyVerification_test.ts  # Test files
-├── settings/
-│   ├── Devnet.toml                     # Local network config
-│   └── Testnet.toml                    # Testnet config
-├── Clarinet.toml                       # Project configuration
-└── README.md                           # Project documentation
-```
+
 
 ## 🔗 Smart Contract Address
 
