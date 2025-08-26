@@ -15,6 +15,29 @@ FoodSafety Verification is a comprehensive blockchain solution that brings trans
 - **Testing**: Clarinet Test Framework
 - **Network**: Stacks Testnet/Mainnet
 
+Project Structure
+
+├── contracts/
+│   └── FoodSafetyVerification.clar      # Main smart contract
+├── tests/
+│   └── FoodSafetyVerification_test.ts    # Unit tests
+├── scripts/
+│   └── deploy.js                      # Deployment scripts
+├── deployments/
+│   ├── default.testnet-plan.yaml      # Testnet deployment config
+│   └── default.devnet-plan.yaml      # Devnet deployment config
+├── settings/
+│   └── Devnet.toml                    # Local development settings
+├── .vscode/
+│   ├── settings.json                  # VS Code configuration
+│   └── tasks.json                     # Build tasks
+├── Clarinet.toml                      # Clarinet project configuration
+├── package.json                       # Node.js dependencies
+├── tsconfig.json                      # TypeScript configuration
+├── vitest.config.js                   # Test configuration
+├── .gitignore                         # Git ignore rules
+└── README.md                          # This file
+
 ### Additional Dependencies:
 - Node.js (v16 or higher)
 - Clarinet CLI
