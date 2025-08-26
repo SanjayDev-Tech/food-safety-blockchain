@@ -156,13 +156,6 @@ clarinet deployment apply --testnet
 - ✅ **Multi-stakeholder**: Support for farmers, certifiers, and consumers
 
 
-
-## 📸 Screenshots & Demo
-
-
-<img width="1920" height="1080" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/431a1548-20fd-4032-b94e-028084c0ba69" />
-
-
 ### Contract Deployment
 ```bash
 # Example successful deployment output
@@ -213,6 +206,13 @@ Transform the global food industry by creating a transparent, trustworthy, and d
 - 🌱 Carbon footprint tracking
 - 🏛️ Government system integration
 - 🔍 Advanced fraud detection
+
+📸 Screenshots
+
+<img width="1920" height="1080" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/d0e5253d-2255-4d6e-886a-c1902c188cb3" />
+
+
+
 
 ## 📄 License
 
