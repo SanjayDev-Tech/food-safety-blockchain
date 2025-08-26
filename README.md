@@ -146,6 +146,10 @@ clarinet deployment apply --testnet
 
 ## 📸 Screenshots & Demo
 
+
+<img width="1920" height="1080" alt="Screenshot (118)" src="https://github.com/user-attachments/assets/431a1548-20fd-4032-b94e-028084c0ba69" />
+
+
 ### Contract Deployment
 ```bash
 # Example successful deployment output
